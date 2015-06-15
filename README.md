@@ -1,3 +1,3 @@
 # Barcode-scanning
-Barcode scanning on mobile by ionic
+Barcode scanning on mobile by ionic.
 
